@@ -5,7 +5,6 @@ Computer Science student with experience in web development and software enginee
 ## Skills
 
 **Programming Languages**
-
 * C++
 * Python
 * JavaScript
@@ -15,13 +14,6 @@ Computer Science student with experience in web development and software enginee
 - CSS3
 - React
 - MERN Stack
-
-**Tools & Technologies**
-
-* Git
-* GitHub
-* MySQL
-* VS Code
 
 ## Projects
 
@@ -39,5 +31,5 @@ Seeking internship and entry-level software development opportunities to apply t
 
 ## Contact
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/vs-28-2004/vs-28-2004)
-* LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/vasusingh28/)
+* GitHub: [vs-28-2004](https://github.com/vs-28-2004/vs-28-2004)
+* LinkedIn: [Vasu Singh](https://www.linkedin.com/in/vasusingh28/)
