@@ -1,16 +1,43 @@
 ## Hi there 👋
 
-<!--
-**vs-28-2004/vs-28-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student with experience in web development and software engineering projects. Skilled in C++, Java, JavaScript and MySQL. Currently building full-stack applications and exploring artificial intelligence technologies.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming Languages**
+
+* C++
+* Python
+* JavaScript
+
+### Web Development
+- HTML5
+- CSS3
+- React
+- MERN Stack
+
+**Tools & Technologies**
+
+* Git
+* GitHub
+* MySQL
+* VS Code
+
+## Projects
+
+### Banking System
+
+Developed a banking system project implementing core banking operations and database management concepts.
+
+### AI and Web Applications
+
+Working on projects involving AI integration, web development, and modern software engineering practices.
+
+## Career Objective
+
+Seeking internship and entry-level software development opportunities to apply technical skills, contribute to impactful projects, and continue growing as a software engineer.
+
+## Contact
+
+* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/vs-28-2004/vs-28-2004)
+* LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/vasusingh28/)
